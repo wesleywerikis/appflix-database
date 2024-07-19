@@ -48,4 +48,4 @@ Sinta-se à vontade para contribuir com este projeto. Faça um fork do repositó
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/wesleywerikis/appflix-database/blob/main/MIT-LICENSE.txt) para mais informações.
